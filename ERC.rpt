@@ -1,0 +1,11 @@
+ERC report (2025-05-09T21:17:01+0530, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5950 mils, 3300 mils): Symbol Q3 Pin 1 [E, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5950 mils, 3350 mils): Vertical Wire, length 50 mils
+
+ ** ERC messages: 2  Errors 1  Warnings 1
